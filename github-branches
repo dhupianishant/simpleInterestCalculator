@@ -1,0 +1,6 @@
+git branch -a
+  big-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/big-fix-typo
+  remotes/origin/main
